@@ -8,3 +8,5 @@ I am Yue Gao, a Ph.D. Candidate in Computer Science at UW-Madison.
 
 - More about me on my [academic homepage](https://pages.cs.wisc.edu/~gy).
 - Read my [personal blog](https://rollroll.me) in Chinese.
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lodour&theme=minimal" align="center">
