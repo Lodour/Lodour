@@ -2,7 +2,7 @@
 
 I am Yue Gao, a Ph.D. Candidate in Computer Science at UW-Madison.
 
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=Lodour&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Lodour&count_private=true&show_icons=true&hide_border=true" align="right">
 
 #### Where to find me
 
