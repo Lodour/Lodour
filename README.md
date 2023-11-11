@@ -1,8 +1,8 @@
 ### Hello!
 
-I am Yue Gao, a Ph.D. Candidate in Computer Sciences at the University of Wisconsin - Madison.
+I am Yue Gao, a Ph.D. Candidate in Computer Sciences at the University of Wisconsin-Madison.
 
-My research focuses on the Security of Multi-Component Machine Learning Systems.
+My research interest broadly lies in Security and Responsible AI. My current works focus on the Security of Multi-Component Machine Learning Systems.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lodour&count_private=true&show_icons=true&hide_border=true" align="right">
 
