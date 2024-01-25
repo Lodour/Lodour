@@ -14,4 +14,4 @@ My research interest broadly lies in Security and Responsible AI. My current wor
 - [LinkedIn](https://www.linkedin.com/in/ygao234/)
 - Public key: [5972E87FC93CA816](https://raw.githubusercontent.com/Lodour/Lodour/main/public.asc)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodour&layout=compact&hide_border=true" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodour&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="center">
