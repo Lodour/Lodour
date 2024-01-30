@@ -4,7 +4,7 @@ I am Yue Gao, a Ph.D. Candidate in Computer Sciences at the University of Wiscon
 
 My research interest broadly lies in Security and Responsible AI. My current works focus on the Security of Multi-Component Machine Learning Systems.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lodour&count_private=true&show_icons=true&hide_border=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodour&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="right">
 
 #### Where to find me
 
@@ -14,4 +14,3 @@ My research interest broadly lies in Security and Responsible AI. My current wor
 - [LinkedIn](https://www.linkedin.com/in/ygao234/)
 - Public key: [5972E87FC93CA816](https://raw.githubusercontent.com/Lodour/Lodour/main/public.asc)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodour&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="center">
