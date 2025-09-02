@@ -2,9 +2,7 @@
 
 I am Yue Gao, a Ph.D. Graduate from Computer Sciences at the University of Wisconsin-Madison.
 
-After graduation, I joined Snowflake as a Product Security Engineer.
-
-My research interest broadly lies in Security and Responsible AI. My current works focus on the Security of Multi-Component Machine Learning Systems.
+Currently I work at Google DeepMind studying AI Security and Privacy.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodour&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="right">
 
